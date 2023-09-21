@@ -1,4 +1,4 @@
-# Coding-Ninja-Number-of-occurrence.cpp
+p# Coding-Ninja-Number-of-occurrence.cpp
 Easy Problem
 #include<bits/stdc++.h>
 int firstOccurence(vector<int> &arr, int n, int k){
